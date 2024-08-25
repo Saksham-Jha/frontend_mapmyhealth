@@ -1,6 +1,3 @@
-# HOSTED AT:
-
-https://mapmyhealth-iitism.netlify.app
 
 # Map My Health
 
